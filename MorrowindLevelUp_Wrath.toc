@@ -1,11 +1,11 @@
-## Interface: 11500
+## Interface: 30403
 ## Version: 1.0.9
 ## Title:|cff231f20Morrowind|r Level Up!
 ## Author: DonnieDice
 ## Notes: Grats!|n|r   |cff05dffaBy Uivi US-BleedingHollow|r
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
-## X-Website: https://github.com/donniedice/MWLU
+## X-Website: https://github.com/donniedice/MorrowindLevelUp
 ## X-Curse-Project-ID: 594121
 ## X-Wago-ID: VBNBbxNx
 ## X-WoWI-ID: 26259

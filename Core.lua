@@ -9,7 +9,7 @@
 local frame_a = CreateFrame("Frame")
 frame_a:RegisterEvent("PLAYER_LEVEL_UP")
 frame_a:SetScript("OnEvent", function(self, event, ...)
-	PlaySoundFile("Interface\\Addons\\MWLU\\MWLU.ogg", "Master")
+	PlaySoundFile("Interface\\Addons\\MorrowindLevelUp\\MorrowindLevelUp.ogg", "Master")
 end)
 
 -- Mute default level up sound
@@ -24,6 +24,6 @@ local frame_c = CreateFrame("Frame")
 frame_c:RegisterEvent("PLAYER_LOGIN")
 frame_c:SetScript("OnEvent", function(self, event, ...)
 	if event == "PLAYER_LOGIN" then
-		print("|cff231f20MWLU - Morrowind Level Up!|r Will no longer be receiving updates. Functionality has been merged into |c2d4b92ffBLU - Better Level Up!|r. If you're a fan of my sound addons, |c2d4b92ffBLU - Better Level Up!|r is available from all addon provider websites. Thank you!")
+		print("|cff231f20MorrowindLevelUp - Morrowind Level Up!|r Will no longer be receiving updates. Functionality has been merged into |c2d4b92ffBLU - Better Level Up!|r. If you're a fan of my sound addons, |c2d4b92ffBLU - Better Level Up!|r is available from all addon provider websites. Thank you!")
 	end
 end)
