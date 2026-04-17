@@ -1,8 +1,8 @@
-# <img src="https://raw.githubusercontent.com/donniedice/MorrowindLevelUp/main/images/logo.png" width="25" height="25"> <span style="color: #8b4b5c;">R</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #fff;">|</span> <span style="color: #2563EB;">M</span><span style="color: #ffffff;">orrow</span><span style="color: #2563EB;">i</span><span style="color: #ffffff;">nd </span><span style="color: #2563EB;">L</span><span style="color: #ffffff;">evel-</span><span style="color: #2563EB;">U</span><span style="color: #ffffff;">p</span><span style="color: #2563EB;">!</span>
+# <img src="images/logo.png" width="25" height="25"> <span style="color: #8b4b5c;">R</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #fff;">|</span> <span style="color: #2563EB;">M</span><span style="color: #ffffff;">orrow</span><span style="color: #2563EB;">i</span><span style="color: #ffffff;">nd </span><span style="color: #2563EB;">L</span><span style="color: #ffffff;">evel-</span><span style="color: #2563EB;">U</span><span style="color: #ffffff;">p</span><span style="color: #2563EB;">!</span>
 
-![MWLU Logo](https://raw.githubusercontent.com/donniedice/MorrowindLevelUp/main/images/logo.png)
+![MWLU Logo](images/logo.png)
 
-## <img src="https://raw.githubusercontent.com/donniedice/MorrowindLevelUp/main/images/logo.png" width="20" height="20"> <span style="color: #8b4b5c;">R</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #4ecdc4;">Mods</span> <span style="color: #3598db;">-</span> <span style="color: #8b4b5c;">R</span><span style="color: #6b8fb0;">ealm</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #6b8fb0;">Community Project</span>
+## <img src="images/logo.png" width="20" height="20"> <span style="color: #8b4b5c;">R</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #4ecdc4;">Mods</span> <span style="color: #3598db;">-</span> <span style="color: #8b4b5c;">R</span><span style="color: #6b8fb0;">ealm</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #6b8fb0;">Community Project</span>
 
 ***
 
@@ -10,7 +10,7 @@
 
 **<span style="color: #8b4b5c;">R</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #fff;">|</span> <span style="color: #2563EB;">M</span><span style="color: #ffffff;">orrow</span><span style="color: #2563EB;">i</span><span style="color: #ffffff;">nd </span><span style="color: #2563EB;">L</span><span style="color: #ffffff;">evel-</span><span style="color: #2563EB;">U</span><span style="color: #ffffff;">p</span><span style="color: #2563EB;">!</span>** <span style="color: #e67e23;">brings the iconic Morrowind level-up chime to</span> <span style="color: #06c;">World of Warcraft</span><span style="color: #e67e23;">, replacing the default sound with a nostalgic achievement moment across supported WoW versions.</span>
 
-![RealmGX Kiwi](https://raw.githubusercontent.com/donniedice/SimpleQuestPlates/main/images/kiwi.gif) **<span style="color: #2dc26b;">The Kiwi Says:</span>** <span style="color: #b96ad9;">"Kwama forager! Bwwiiiee."</span>
+![RealmGX Kiwi](media/kiwi.gif) **<span style="color: #2dc26b;">The Kiwi Says:</span>** <span style="color: #b96ad9;">"Kwama forager! Bwwiiiee."</span>
 
 ***
 
@@ -37,7 +37,7 @@
 2.  **<span style="color: #4ecdc4;">Extract</span>** <span style="color: #e67e23;">the folder to your WoW `Interface/AddOns` directory.</span>
 3.  **<span style="color: #b96ad9;">Restart</span>** <span style="color: #06c;">WoW</span> <span style="color: #e67e23;">and enable the addon.</span>
 
-![RealmGX Kiwi](https://raw.githubusercontent.com/donniedice/SimpleQuestPlates/main/images/kiwi.gif) **<span style="color: #2dc26b;">The Kiwi Says:</span>** <span style="color: #b96ad9;">"Installation complete. Vvardenfell good."</span>
+![RealmGX Kiwi](media/kiwi.gif) **<span style="color: #2dc26b;">The Kiwi Says:</span>** <span style="color: #b96ad9;">"Installation complete. Vvardenfell good."</span>
 
 ***
 
