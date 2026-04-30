@@ -1,9 +1,11 @@
 ## Interface: 11500
-## Version: 1.0.12
-## Title:  |cff231f20Morrowind|r Level Up|cff231f20!|r
+## Version: 2.0.0
+## Title:  |cff7e8265Morrowind|r Level Up|cff7e8265!|r
 ## IconTexture: Interface\AddOns\MorrowindLevelUp\media\icon
 ## Author: DonnieDice
-## Notes:  Play a Morrowind-inspired level-up sound!  |n|r  |cff231f20/morlu -|r Open help  |n|r   |cff231f20By DonnieDice|r
+## SavedVariables: MRLUSettings
+## RequiredDeps: RGX-Framework
+## Notes:  Play a Morrowind-inspired level-up sound!  |n|r  |cff7e8265/morlu -|r Open help  |n|r   |cff7e8265By DonnieDice|r
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
 ## X-Website: https://github.com/donniedice/MorrowindLevelUp
@@ -11,4 +13,5 @@
 ## X-Wago-ID: VBNBbxNx
 ## X-WoWI-ID: 26259
 
-Core.lua
+data\locales.lua
+data\core.lua
