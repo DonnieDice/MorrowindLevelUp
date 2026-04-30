@@ -1,8 +1,9 @@
 ## Interface: 11500
-## Version: 1.0.11
-## Title:|cff231f20Morrowind|r Level Up!
+## Version: 1.0.12
+## Title:  |cff231f20Morrowind|r Level Up|cff231f20!|r
+## IconTexture: Interface\AddOns\MorrowindLevelUp\media\icon
 ## Author: DonnieDice
-## Notes: Grats!|n|r   |cff05dffaBy Uivi US-BleedingHollow|r
+## Notes:  Play a Morrowind-inspired level-up sound!  |n|r  |cff231f20/morlu -|r Open help  |n|r   |cff231f20By DonnieDice|r
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
 ## X-Website: https://github.com/donniedice/MorrowindLevelUp
