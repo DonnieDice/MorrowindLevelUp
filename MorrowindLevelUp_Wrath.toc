@@ -1,5 +1,5 @@
 ## Interface: 30403
-## Version: 2.0.0
+## Version: 2.0.1
 ## Title:  |cff7e8265Morrowind|r Level Up|cff7e8265!|r
 ## IconTexture: Interface\AddOns\MorrowindLevelUp\media\icon
 ## Author: DonnieDice
